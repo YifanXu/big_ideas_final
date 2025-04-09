@@ -1,0 +1,1304 @@
+{
+    "features": [
+        {
+            "properties": {
+                "name": "Ammon",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 899591542,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Ammon.jpg",
+                "capacity": 538000.0,
+                "type": "Pool"
+            },
+            "id": 899591542,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.97860376431017,
+                            40.44887471870786
+                        ],
+                        [
+                            -79.97835968306431,
+                            40.44897881588609
+                        ],
+                        [
+                            -79.97805122944352,
+                            40.44858692055184
+                        ],
+                        [
+                            -79.97830335689937,
+                            40.448476699000565
+                        ],
+                        [
+                            -79.97860376431017,
+                            40.44887471870786
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Arlington Spray Park",
+                "water_source": "Pennsylvania American Water",
+                "id": 251269184,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Arlington_Spray_Park.jpg",
+                "capacity": null,
+                "type": "Spray Park"
+            },
+            "id": 251269184,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.97530508500986,
+                            40.41794734674068
+                        ],
+                        [
+                            -79.97488129579143,
+                            40.417898337764484
+                        ],
+                        [
+                            -79.97491884626861,
+                            40.417673710154666
+                        ],
+                        [
+                            -79.97547138203356,
+                            40.417743140499866
+                        ],
+                        [
+                            -79.9754284668175,
+                            40.4179595991501
+                        ],
+                        [
+                            -79.97530508500986,
+                            40.41794734674068
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Banksville",
+                "water_source": "Pennsylvania American Water",
+                "id": 1003800828,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Banksville.jpg",
+                "capacity": 166320.0,
+                "type": "Pool"
+            },
+            "id": 1003800828,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.04046679612,
+                            40.4148694762782
+                        ],
+                        [
+                            -80.04038364715898,
+                            40.414755115573676
+                        ],
+                        [
+                            -80.04064113935372,
+                            40.41466117613159
+                        ],
+                        [
+                            -80.04072428741641,
+                            40.41477962155302
+                        ],
+                        [
+                            -80.04046679612,
+                            40.4148694762782
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Beechview Spray Park",
+                "water_source": "Pennsylvania American Water",
+                "id": 1688544652,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Beechview_Spray_Park.jpg",
+                "capacity": null,
+                "type": "Spray Park"
+            },
+            "id": 1688544652,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.01900253785783,
+                            40.41489661063622
+                        ],
+                        [
+                            -80.01919565677929,
+                            40.41489661063622
+                        ],
+                        [
+                            -80.01932172095638,
+                            40.415064067403556
+                        ],
+                        [
+                            -80.01922247957536,
+                            40.41512941590591
+                        ],
+                        [
+                            -80.01912860203493,
+                            40.41505998286358
+                        ],
+                        [
+                            -80.01901594880673,
+                            40.41491499042485
+                        ],
+                        [
+                            -80.01900253785783,
+                            40.41489661063622
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Bloomfield",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 1533382756,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Bloomfield.jpg",
+                "capacity": 335000.0,
+                "type": "Pool"
+            },
+            "id": 1533382756,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.95338241555989,
+                            40.46216423801927
+                        ],
+                        [
+                            -79.95313833431405,
+                            40.462051998578794
+                        ],
+                        [
+                            -79.95317320332012,
+                            40.46200506190558
+                        ],
+                        [
+                            -79.95307664341021,
+                            40.461962206891336
+                        ],
+                        [
+                            -79.95316783858124,
+                            40.46185812982613
+                        ],
+                        [
+                            -79.9532643975928,
+                            40.461907107449484
+                        ],
+                        [
+                            -79.95330463133774,
+                            40.46185812982613
+                        ],
+                        [
+                            -79.9535487125836,
+                            40.46196832942847
+                        ],
+                        [
+                            -79.95338241555989,
+                            40.46216423801927
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Burgwin Spray Park",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 1287441950,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Burgwin_Spray_Park.jpg",
+                "capacity": null,
+                "type": "Spray Park"
+            },
+            "id": 1287441950,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.93692129193327,
+                            40.405247869127194
+                        ],
+                        [
+                            -79.9366825754263,
+                            40.40515800155458
+                        ],
+                        [
+                            -79.93689715150664,
+                            40.404898610325844
+                        ],
+                        [
+                            -79.93710368227529,
+                            40.4049741808973
+                        ],
+                        [
+                            -79.93692129193327,
+                            40.405247869127194
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Cowley Spray Park",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 168387727,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Cowley_Spray_Park.jpg",
+                "capacity": null,
+                "type": "Spray Park"
+            },
+            "id": 168387727,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.98855788098913,
+                            40.45886021710802
+                        ],
+                        [
+                            -79.98827088452722,
+                            40.45890715597849
+                        ],
+                        [
+                            -79.98817164314622,
+                            40.45863776726205
+                        ],
+                        [
+                            -79.98847741529589,
+                            40.45858674699028
+                        ],
+                        [
+                            -79.98855788098913,
+                            40.45886021710802
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "East Hills Spray Park",
+                "water_source": "Wilkinsburg Penn",
+                "id": 1569871328,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/East_Hills_Spray_Park.jpg",
+                "capacity": null,
+                "type": "Spray Park"
+            },
+            "id": 1569871328,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.87101175401034,
+                            40.453221036741134
+                        ],
+                        [
+                            -79.87097420353317,
+                            40.453226139519295
+                        ],
+                        [
+                            -79.87093396978821,
+                            40.45322409840811
+                        ],
+                        [
+                            -79.87089641931102,
+                            40.453205729771454
+                        ],
+                        [
+                            -79.87086825622855,
+                            40.45317409389812
+                        ],
+                        [
+                            -79.87086423267438,
+                            40.45313939702276
+                        ],
+                        [
+                            -79.87087764362326,
+                            40.45310980291654
+                        ],
+                        [
+                            -79.87090580670574,
+                            40.453079188239414
+                        ],
+                        [
+                            -79.87094201689652,
+                            40.453045511873455
+                        ],
+                        [
+                            -79.87097688500427,
+                            40.45301897871858
+                        ],
+                        [
+                            -79.87101980111866,
+                            40.45299346611233
+                        ],
+                        [
+                            -79.87107746846833,
+                            40.45297203573437
+                        ],
+                        [
+                            -79.87111501894552,
+                            40.45296999461545
+                        ],
+                        [
+                            -79.87114586439742,
+                            40.45297305629382
+                        ],
+                        [
+                            -79.87117268629518,
+                            40.45298632288166
+                        ],
+                        [
+                            -79.87119012079822,
+                            40.45300061002587
+                        ],
+                        [
+                            -79.87120755530125,
+                            40.45302816306303
+                        ],
+                        [
+                            -79.87120487293181,
+                            40.45306592166995
+                        ],
+                        [
+                            -79.87119414435237,
+                            40.453103680255666
+                        ],
+                        [
+                            -79.87113245344855,
+                            40.453157766361116
+                        ],
+                        [
+                            -79.87106673899056,
+                            40.45320164754773
+                        ],
+                        [
+                            -79.87104259946226,
+                            40.453213893534596
+                        ],
+                        [
+                            -79.87101175401034,
+                            40.453221036741134
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Highland - Children",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 1475037865,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Highland_-_Children.jpg",
+                "capacity": null,
+                "type": "Pool"
+            },
+            "id": 1475037865,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.91142096149005,
+                            40.482088549168274
+                        ],
+                        [
+                            -79.91129489821128,
+                            40.48214363205311
+                        ],
+                        [
+                            -79.91114737687532,
+                            40.48194982129746
+                        ],
+                        [
+                            -79.91126807631353,
+                            40.48189167789333
+                        ],
+                        [
+                            -79.91142096149005,
+                            40.482088549168274
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Highland - Main",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 5446687,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Highland_-_Main.jpg",
+                "capacity": 560242.0,
+                "type": "Pool"
+            },
+            "id": 5446687,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.91124636223647,
+                            40.48216374535395
+                        ],
+                        [
+                            -79.91075551737535,
+                            40.482386117283916
+                        ],
+                        [
+                            -79.91061336077827,
+                            40.48219434745943
+                        ],
+                        [
+                            -79.91110688711052,
+                            40.48196993465637
+                        ],
+                        [
+                            -79.91124636223647,
+                            40.48216374535395
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Homewood",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 878134116,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Homewood.jpg",
+                "capacity": 171075.0,
+                "type": "Pool"
+            },
+            "id": 878134116,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.8999658735616,
+                            40.45452321446357
+                        ],
+                        [
+                            -79.89970984494947,
+                            40.45441198270398
+                        ],
+                        [
+                            -79.89987650766096,
+                            40.45420287771632
+                        ],
+                        [
+                            -79.90000525330916,
+                            40.45425798347697
+                        ],
+                        [
+                            -79.89991920924805,
+                            40.45436928498699
+                        ],
+                        [
+                            -79.9000440843233,
+                            40.45442306866914
+                        ],
+                        [
+                            -79.8999658735616,
+                            40.45452321446357
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Jack Stack",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 2092220498,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Jack_Stack.jpg",
+                "capacity": 205800.0,
+                "type": "Pool"
+            },
+            "id": 2092220498,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.03087058801317,
+                            40.48693001228854
+                        ],
+                        [
+                            -80.03074184146664,
+                            40.487034050498956
+                        ],
+                        [
+                            -80.03054872254518,
+                            40.48690349251798
+                        ],
+                        [
+                            -80.0304682559536,
+                            40.486966731112666
+                        ],
+                        [
+                            -80.03038510789091,
+                            40.486907572693575
+                        ],
+                        [
+                            -80.03059163776125,
+                            40.48674437504099
+                        ],
+                        [
+                            -80.03087058801317,
+                            40.48693001228854
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Magee",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 778775283,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Magee.jpg",
+                "capacity": 195000.0,
+                "type": "Pool"
+            },
+            "id": 778775283,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.93718408328986,
+                            40.42493858029675
+                        ],
+                        [
+                            -79.93703656195392,
+                            40.424975333014714
+                        ],
+                        [
+                            -79.93697487105007,
+                            40.42483240391771
+                        ],
+                        [
+                            -79.93685417161188,
+                            40.42486507343285
+                        ],
+                        [
+                            -79.93679784544692,
+                            40.42475685496208
+                        ],
+                        [
+                            -79.93706874859052,
+                            40.424687431855325
+                        ],
+                        [
+                            -79.93718408328986,
+                            40.42493858029675
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "McBride",
+                "water_source": "Pennsylvania American Water",
+                "id": 23531050,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/McBride.jpg",
+                "capacity": 18000.0,
+                "type": "Pool"
+            },
+            "id": 23531050,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.90736041650571,
+                            40.370491089534625
+                        ],
+                        [
+                            -79.90725581038582,
+                            40.370464523125364
+                        ],
+                        [
+                            -79.90732286602851,
+                            40.37030921718074
+                        ],
+                        [
+                            -79.90743283598897,
+                            40.370335782966805
+                        ],
+                        [
+                            -79.90736041650571,
+                            40.370491089534625
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Mellon Spray Park",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 1622961249,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Mellon_Spray_Park.jpg",
+                "capacity": null,
+                "type": "Spray Park"
+            },
+            "id": 1622961249,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.91576932309816,
+                            40.45410371795131
+                        ],
+                        [
+                            -79.91557888654613,
+                            40.4541302499943
+                        ],
+                        [
+                            -79.91553060659118,
+                            40.45395064532341
+                        ],
+                        [
+                            -79.91572372551265,
+                            40.453928194705775
+                        ],
+                        [
+                            -79.91576932309816,
+                            40.45410371795131
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Moore",
+                "water_source": "Pennsylvania American Water",
+                "id": 2077053611,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Moore.jpg",
+                "capacity": 417657.0,
+                "type": "Pool"
+            },
+            "id": 2077053611,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.01379133992776,
+                            40.40574553148554
+                        ],
+                        [
+                            -80.01320393605504,
+                            40.405680173870444
+                        ],
+                        [
+                            -80.01323344032224,
+                            40.405437123784715
+                        ],
+                        [
+                            -80.01383827869797,
+                            40.405501715504734
+                        ],
+                        [
+                            -80.01379133992776,
+                            40.40574553148554
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Oliver",
+                "water_source": "Pennsylvania American Water",
+                "id": 1029407685,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Oliver.jpg",
+                "capacity": 107000.0,
+                "type": "Pool"
+            },
+            "id": 1029407685,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.9891047169436,
+                            40.429720735244345
+                        ],
+                        [
+                            -79.98875871194731,
+                            40.42972686003529
+                        ],
+                        [
+                            -79.98874530099843,
+                            40.42954923198214
+                        ],
+                        [
+                            -79.9890966707336,
+                            40.42954719015188
+                        ],
+                        [
+                            -79.9891047169436,
+                            40.429720735244345
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Ormsby",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 328662701,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Ormsby.jpg",
+                "capacity": 205800.0,
+                "type": "Pool"
+            },
+            "id": 328662701,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.97430796851923,
+                            40.42894692287837
+                        ],
+                        [
+                            -79.97418458671157,
+                            40.428942839181246
+                        ],
+                        [
+                            -79.97416849339326,
+                            40.42911842767659
+                        ],
+                        [
+                            -79.97398073921066,
+                            40.42910617729951
+                        ],
+                        [
+                            -79.97399951489842,
+                            40.428830544251284
+                        ],
+                        [
+                            -79.97431601562752,
+                            40.428846877697936
+                        ],
+                        [
+                            -79.97430796851923,
+                            40.42894692287837
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Paulson",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 54343082,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Paulson.jpg",
+                "capacity": null,
+                "type": "Spray Park"
+            },
+            "id": 54343082,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.90097460609009,
+                            40.46880959789555
+                        ],
+                        [
+                            -79.90066944399258,
+                            40.468731315808654
+                        ],
+                        [
+                            -79.90076002911142,
+                            40.468517802464355
+                        ],
+                        [
+                            -79.90101191304048,
+                            40.468583656131536
+                        ],
+                        [
+                            -79.90097460609009,
+                            40.46880959789555
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Phillips - Main",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 1704750315,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Phillips_-_Main.jpg",
+                "capacity": 224100.0,
+                "type": "Pool"
+            },
+            "id": 1704750315,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.99127493527894,
+                            40.39211433185405
+                        ],
+                        [
+                            -79.99107645161861,
+                            40.39220013091195
+                        ],
+                        [
+                            -79.99093429502152,
+                            40.39199176128849
+                        ],
+                        [
+                            -79.99114082489187,
+                            40.39190596128091
+                        ],
+                        [
+                            -79.99127493527894,
+                            40.39211433185405
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Ream",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 43656340,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Ream.jpg",
+                "capacity": 356000.0,
+                "type": "Pool"
+            },
+            "id": 43656340,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.01323647303464,
+                            40.4309842841454
+                        ],
+                        [
+                            -80.01296556899273,
+                            40.43091078457256
+                        ],
+                        [
+                            -80.01298166231102,
+                            40.430871992624155
+                        ],
+                        [
+                            -80.01288510329944,
+                            40.430845450715815
+                        ],
+                        [
+                            -80.01293070088497,
+                            40.43072907537404
+                        ],
+                        [
+                            -80.0130460364826,
+                            40.43075357553472
+                        ],
+                        [
+                            -80.01306749364147,
+                            40.43070661699955
+                        ],
+                        [
+                            -80.01332498583622,
+                            40.43076786672115
+                        ],
+                        [
+                            -80.01323647303464,
+                            40.4309842841454
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Riverview",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 1747129029,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Riverview.jpg",
+                "capacity": 205800.0,
+                "type": "Pool"
+            },
+            "id": 1747129029,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.01869096618468,
+                            40.479670266420214
+                        ],
+                        [
+                            -80.01849516489379,
+                            40.47984368210251
+                        ],
+                        [
+                            -80.01820548606244,
+                            40.47966006556416
+                        ],
+                        [
+                            -80.01833155023951,
+                            40.47955805623512
+                        ],
+                        [
+                            -80.01851930442211,
+                            40.4796825075821
+                        ],
+                        [
+                            -80.01860379366951,
+                            40.4796151815058
+                        ],
+                        [
+                            -80.01869096618468,
+                            40.479670266420214
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Schenley",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 1396040949,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Schenley.jpg",
+                "capacity": 187600.0,
+                "type": "Pool"
+            },
+            "id": 1396040949,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.9471217069002,
+                            40.43484621199917
+                        ],
+                        [
+                            -79.94680520617109,
+                            40.43478496530854
+                        ],
+                        [
+                            -79.94683739280774,
+                            40.43465226475173
+                        ],
+                        [
+                            -79.94700905367202,
+                            40.43468492949692
+                        ],
+                        [
+                            -79.94703855793921,
+                            40.43458285185914
+                        ],
+                        [
+                            -79.94719144401404,
+                            40.43461551663804
+                        ],
+                        [
+                            -79.9471217069002,
+                            40.43484621199917
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Sheraden",
+                "water_source": "Pennsylvania American Water",
+                "id": 976230017,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Sheraden.jpg",
+                "capacity": 278000.0,
+                "type": "Pool"
+            },
+            "id": 976230017,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.06005224144018,
+                            40.45720428622007
+                        ],
+                        [
+                            -80.05986180488814,
+                            40.45726551180137
+                        ],
+                        [
+                            -80.05977865592712,
+                            40.45713081462866
+                        ],
+                        [
+                            -80.05969550786445,
+                            40.45715938715157
+                        ],
+                        [
+                            -80.05962308748285,
+                            40.457041016363455
+                        ],
+                        [
+                            -80.05990203773476,
+                            40.45694917698021
+                        ],
+                        [
+                            -80.06005224144018,
+                            40.45720428622007
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Sue Murray",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 927599833,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Sue_Murray.jpg",
+                "capacity": 271000.0,
+                "type": "Pool"
+            },
+            "id": 927599833,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.00171521030822,
+                            40.451336229228446
+                        ],
+                        [
+                            -80.00157037044339,
+                            40.451366844699606
+                        ],
+                        [
+                            -80.00160255708002,
+                            40.45145665054818
+                        ],
+                        [
+                            -80.00144162479518,
+                            40.451485225484014
+                        ],
+                        [
+                            -80.00132628919755,
+                            40.45113824652053
+                        ],
+                        [
+                            -80.00149795096011,
+                            40.451107630945174
+                        ],
+                        [
+                            -80.00153550143732,
+                            40.451217847497965
+                        ],
+                        [
+                            -80.00166693035328,
+                            40.45119131430503
+                        ],
+                        [
+                            -80.00171521030822,
+                            40.451336229228446
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Warrington Spray Park",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 1404087945,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Warrington_Spray_Park.jpg",
+                "capacity": null,
+                "type": "Spray Park"
+            },
+            "id": 1404087945,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.0011206603374,
+                            40.42169708924675
+                        ],
+                        [
+                            -80.0011179788663,
+                            40.42172771890088
+                        ],
+                        [
+                            -80.00079343102888,
+                            40.42172159269765
+                        ],
+                        [
+                            -80.00075319818224,
+                            40.42145409700694
+                        ],
+                        [
+                            -80.00112870744573,
+                            40.421468390853356
+                        ],
+                        [
+                            -80.0011206603374,
+                            40.42169708924675
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "West Penn",
+                "water_source": "Pittsburgh Water and Sewer Authority",
+                "id": 558965267,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/West_Penn.jpg",
+                "capacity": 215451.0,
+                "type": "Pool"
+            },
+            "id": 558965267,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.97010385748112,
+                            40.45525663236092
+                        ],
+                        [
+                            -79.96988928050244,
+                            40.455405619923816
+                        ],
+                        [
+                            -79.9697578515865,
+                            40.45531173794091
+                        ],
+                        [
+                            -79.96996438235516,
+                            40.45516275016979
+                        ],
+                        [
+                            -79.97010385748112,
+                            40.45525663236092
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "properties": {
+                "name": "Westwood",
+                "water_source": "Pennsylvania American Water",
+                "id": 1702052317,
+                "image": "https://tools.wprdc.org/images/pittsburgh/pools/Westwood.jpg",
+                "capacity": 156840.0,
+                "type": "Pool"
+            },
+            "id": 1702052317,
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -80.04993295242822,
+                            40.43088099332095
+                        ],
+                        [
+                            -80.04970228213125,
+                            40.430933055521194
+                        ],
+                        [
+                            -80.04960304075024,
+                            40.43070949301763
+                        ],
+                        [
+                            -80.04971166952596,
+                            40.43068601373876
+                        ],
+                        [
+                            -80.04975056208619,
+                            40.430765638937345
+                        ],
+                        [
+                            -80.04986589678552,
+                            40.43073909698702
+                        ],
+                        [
+                            -80.04993295242822,
+                            40.43088099332095
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        }
+    ],
+    "name": "meuse",
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "type": "FeatureCollection"
+}
